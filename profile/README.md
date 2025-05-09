@@ -38,7 +38,7 @@ We are excited to build a vibrant community around Axon! Whether you're a develo
 
 ## 🔗 Key Links
 
-* **Axon Landing Page:** https://www.axonapp.chat (temporarily on https://axon.pages.dev)
+* **Axon Landing Page:** https://www.axonapp.chat (temporarily on https://axonapp.pages.dev)
 * **Main Axon Documentation:** https://docs.axonapp.chat (temporarily unavailable)
 
 ---
